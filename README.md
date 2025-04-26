@@ -1,2 +1,3 @@
 # Meu_Site
-Exercício de HTML.
+
+Site criado como forma de exercício no aprendizado de HTML.
